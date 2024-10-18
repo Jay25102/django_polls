@@ -1,0 +1,2 @@
+First Django project made with the help of the Django tutorial in their documentation (https://docs.djangoproject.com/en/5.1/intro/tutorial01/). Database credentials were entered using django-environ environmental variables.
+To run, setup a psql database with the name django_test or change the database name to whatever you want in the settings.py. Then install requirements with requirements.txt and run with python manage.py runserver.
